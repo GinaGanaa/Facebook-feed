@@ -1,11 +1,11 @@
-export const Posts = () => {
+export const Posts = (props) => {
   return (
     <div className="w-[562px] h-[660px] bg-white rounded-[8px]">
       <div className=" p-[20px]">
         <div className="flex gap-[20px] items-center">
           <img className="w-[40px] h-[40px]" src="/posts/codeFive.png" alt="" />
           <div className="">
-            <p className="text-[#050505] font-semibold  text-[15px]">Codefive</p>
+            <p className="text-[#050505] font-semibold  text-[15px]">{props.name}</p>
             <div className="flex gap-[10px]">
               <p className="text-[13px] text-[#65676B]">January 20th</p>
               <img src="/basicInfo/dot.svg" alt="" />

@@ -11,7 +11,7 @@ export const Header = () => {
     <div className="min-w-[1000px]">
       <div className="w-full h-[60px] content-center pl-[20px] flex justify-between">
         <div className="flex items-center gap-[10px] ">
-          <FaFacebook color="0062E0" size={40} />
+          <FaFacebook color="#0062E0" size={40} />
           <div className="flex items-center">
             <GrSearch color="#65676B" style={{ position: 'absolute', marginLeft: '15px' }} size={15} />
             <input className="w-[235px] h-[40px] rounded-[30px] bg-[#F0F2F5] pl-[40px]" type="text" placeholder="Search Facebook" />
