@@ -17,7 +17,7 @@ export const DetailInfo = () => {
         </div>
         <div className="flex gap-[20px] pt-[15px]">
           <img src="/detailInfo/followIcon.svg" alt="" />
-          <p>1169 peoplo follow this page</p>
+          <p>1169 people follow this page</p>
         </div>
         <div className="flex gap-[20px] pt-[15px]">
           <img src="/detailInfo/visitIcon.svg" alt="" />
