@@ -13,19 +13,18 @@ export const BasicInfo = () => {
           <div className="flex w-[92%] items-center justify-between">
             <div className="flex items-center gap-[25px] ">
               <img className="w-[135px] " src="/basicInfo/codeFivePage.png " alt="" />
-              <div className="">
-                <div className="flex gap-[10px]">
-                  <p className="font-bold text-[28px]">Codefive</p>
-                  <img src="/basicInfo/codeFiveIcon.svg" alt="" />
-                </div>
-                <div className="flex gap-[10px] text-[#65676B]">
-                  <p>@codefive.pt</p>
-                  <img src="/basicInfo/dot.svg" alt="" />
-                  <img src="/basicInfo/star.svg" alt="" />
-                  <p>21 critics</p>
-                  <img src="/basicInfo/dot.svg" alt="" />
-                  <p>Agency</p>
-                </div>
+
+              <div className="flex gap-[10px]">
+                <p className="font-bold text-[28px]">Codefive</p>
+                <img src="/basicInfo/codeFiveIcon.svg" alt="" />
+              </div>
+              <div className="flex gap-[10px] text-[#65676B]">
+                <p>@codefive.pt</p>
+                <img src="/basicInfo/dot.svg" alt="" />
+                <img src="/basicInfo/star.svg" alt="" />
+                <p>21 critics</p>
+                <img src="/basicInfo/dot.svg" alt="" />
+                <p>Agency</p>
               </div>
             </div>
             <div className=" w-[300px] flex flex-col items-center pt-[50px]">
