@@ -15,7 +15,7 @@ export const Posts = (props) => {
           </div>
         </div>
         <p className="pt-[20px] ">
-          We have the privilege of conceiving the Foxspeed website: an eCommerce solution in Wordpress, with an avant-garden design! We invite you to visit the site foxspeed.pt
+          We have the privilege of conceiving the Foxspeed website: an eCommerce solution in Wordpress, with an avant-garde design! We invite you to visit the site foxspeed.pt
         </p>
       </div>
       <img src="/posts/foxSpeed.png" alt="" />
